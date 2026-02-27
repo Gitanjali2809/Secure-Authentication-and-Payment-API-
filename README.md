@@ -163,10 +163,10 @@ profile
 ![Profile](images/profile.png.png)  
 
 Payment
-![Payment](images/payment%200order.png)  
+![Paymentorder](images/payment%200order.png)  
 
 Payment Verify
-![Payment Verify](images/pay%20verify.png)  
+![Payment Verify](images/pay%20verify.png) 
 
 
 
