@@ -146,21 +146,26 @@ All APIs were tested using Postman.
 ## 📸 Screenshots
 
 * Register API success
+  
 ![Register](images/register.png)  
 
 * Login API with token
+
 ![Login](images/login.png)  
 
 
 * Profile
+  
 ![Profile](images/profile.png)  
 
 
 * Payment order creation
+  
 ![Paymentorder](images/payment%20order.png) 
 
 
 * Payment verification success
+
 ![Payment Verify](images/pay%20verify.png) 
 
 
