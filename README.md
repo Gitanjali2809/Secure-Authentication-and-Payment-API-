@@ -143,32 +143,24 @@ POST /api/payment/verify
 
 All APIs were tested using Postman.
 
-You can include screenshots like:
-
-* Register API success
-* Login API with token
-* Protected route access
-* Payment order creation
-* Payment verification success
-
 ## 📸 Screenshots
 
-Register
+* Register API success
 ![Register](images/register.png)  
 
-Login
+* Login API with token
 ![Login](images/login.png)  
 
 
-profile
+* Profile
 ![Profile](images/profile.png)  
 
 
-Payment
+* Payment order creation
 ![Paymentorder](images/payment%20order.png) 
 
 
-Payment Verify
+* Payment verification success
 ![Payment Verify](images/pay%20verify.png) 
 
 
