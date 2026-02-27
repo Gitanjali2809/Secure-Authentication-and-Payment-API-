@@ -157,13 +157,13 @@ Register
 ![Register](images/register.png)  
 
 Login
-![Login](images/login.png.png)  
+![Login](images/login.png)  
 
 profile
-![Profile](images/profile.png.png)  
+![Profile](images/profile.png)  
 
 Payment
-![Paymentorder](images/payment%200order.png)  
+![Paymentorder](images/paymentorder.png)  
 
 Payment Verify
 ![Payment Verify](images/pay%20verify.png) 
