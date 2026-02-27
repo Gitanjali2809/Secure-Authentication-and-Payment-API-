@@ -159,11 +159,14 @@ Register
 Login
 ![Login](images/login.png)  
 
+
 profile
 ![Profile](images/profile.png)  
 
+
 Payment
-![Paymentorder](images/payment.png)  
+![Paymentorder](images/payment%20order.png) 
+
 
 Payment Verify
 ![Payment Verify](images/pay%20verify.png) 
