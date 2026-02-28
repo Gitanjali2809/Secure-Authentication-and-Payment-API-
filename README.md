@@ -1,6 +1,6 @@
-# 🔐 Secure Authentication and Payment API 
+#  Secure Authentication and Payment API 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a secure backend API built using **Node.js, Express.js, and MongoDB**. It implements user authentication using **JWT (JSON Web Token)** and integrates **Razorpay Payment Gateway** for handling online payments securely.
 
@@ -10,7 +10,7 @@ This project demonstrates real-world backend development practices including aut
 
 ---
 
-## 🚀 Features
+##  Features
 
 * User Registration with encrypted password (bcrypt)
 * User Login with JWT authentication
@@ -23,7 +23,7 @@ This project demonstrates real-world backend development practices including aut
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Node.js
 * Express.js
@@ -38,7 +38,7 @@ This project demonstrates real-world backend development practices including aut
 
 ---
 
-## ⚙️ How to Run This Project Locally
+##  How to Run This Project Locally
 
 ### Step 1: Clone the repository
 
@@ -89,7 +89,7 @@ http://localhost:5000
 
 ---
 
-## 🔑 API Endpoints
+##  API Endpoints
 
 ### Authentication
 
@@ -129,7 +129,7 @@ POST /api/payment/verify
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
 * Password hashing using bcrypt
 * JWT authentication
@@ -139,7 +139,7 @@ POST /api/payment/verify
 
 ---
 
-## 🧪 API Testing
+##  API Testing
 
 All APIs were tested using Postman.
 
@@ -172,7 +172,7 @@ All APIs were tested using Postman.
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 * Backend development with Node.js and Express.js
 * REST API design
@@ -186,7 +186,7 @@ All APIs were tested using Postman.
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
