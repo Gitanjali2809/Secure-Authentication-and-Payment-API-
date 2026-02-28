@@ -185,15 +185,3 @@ All APIs were tested using Postman.
 * Environment variable management
 
 ---
-
-##  Learning Outcomes
-
-Through this project, I learned:
-
-* How authentication systems work
-* How JWT is used to protect routes
-* How payment gateways integrate with backend
-* How to structure backend using MVC architecture
-* How to securely store and verify user data
-
----
