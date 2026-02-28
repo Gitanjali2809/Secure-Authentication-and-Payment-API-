@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project is a secure backend API built using **Node.js, Express.js, and MongoDB**. It implements user authentication using **JWT (JSON Web Token)** and integrates **Razorpay Payment Gateway** for handling online payments securely.
+This project is a secure backend API built using Node.js, Express.js, and MongoDB. It implements user authentication using JWT (JSON Web Token) and integrates Razorpay Payment Gateway for handling online payments securely.
 
 The system allows users to register, login, access protected routes, create payment orders, and verify payments using cryptographic signature verification.
 
